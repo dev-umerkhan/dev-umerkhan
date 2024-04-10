@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# About Me
+👋 Muhammad Umer Khan is a seasoned Mechatronics Engineer with a Bachelor's degree from the National University of Sciences and Technology, Pakistan. With a solid foundation in programming, electronics, and system design, Umer has led numerous successful projects, ranging from optimizing multi-core applications for real-time data processing to architecting complex systems like drone light shows and autonomous robots. Proficient in a diverse array of tools and technologies, Umer is committed to driving technological advancements and collaborating on impactful projects that push the boundaries of innovation. Connect with Umer to explore opportunities for collaboration and innovation in the world of technology.
 <!--
 **dev-umerkhan/dev-umerkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
